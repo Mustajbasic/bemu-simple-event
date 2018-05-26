@@ -1,0 +1,24 @@
+{
+  "name": "bemu-simple-event",
+  "version": "1.0.5",
+  "description": "SimpleEvent provides you an easy way to trigger multiple events at once  across your project",
+  "main": "bemu-simple-event.js",
+  "scripts": {
+    "test": "cd test && npm install && node app"
+  },
+  "keywords": [
+    "simple",
+    "event",
+    "bemu"
+  ],
+  "author": "Belmin Mustajbasic",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mustajbasic/bemu-simple-event.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Mustajbasic/bemu-simple-event/issues"
+  },
+  "homepage": "https://github.com/Mustajbasic/bemu-simple-event#readme"
+}
