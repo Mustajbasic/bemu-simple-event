@@ -1,0 +1,19 @@
+{
+  "name": "bemu-simple-event-test",
+  "version": "1.0.0",
+  "description": "Test for the package bemu-simple-event",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "simple",
+    "event",
+    "bemu"
+  ],
+  "author": "Belmin Mustajbasic",
+  "license": "ISC",
+  "dependencies": {
+    "bemu-simple-event": "^1.0.3"
+  }
+}
